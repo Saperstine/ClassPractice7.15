@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* CSS Reset */
 
 *, *::before, *::after {
@@ -7,7 +6,6 @@
 * {
     margin: 0;
   }
-=======
 margin *
 
 .mainPage {
@@ -17,4 +15,3 @@ margin *
     height: 500px;
     border: solid blue 2px;
 }
->>>>>>> f78e138b021ad587c38347a27bd42dd114e6cd59
