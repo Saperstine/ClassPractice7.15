@@ -1,0 +1,9 @@
+margin *
+
+.mainPage {
+    padding: 100px;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    border: solid blue 2px;
+}
