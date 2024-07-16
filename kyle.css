@@ -1,0 +1,35 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+* {
+    margin: 0;
+  }
+
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 100vw;
+    border: solid lightblue 2px;
+    background-color: lightblue;
+    align-content: row;
+}
+
+.mainLeft {
+    width: 400px;
+    height: 400px;
+    align-content: center;
+    padding-left: 40px;
+}
+
+.mainRight{
+    height: 400px;
+    width: 75vw;
+    margin-left: 50px;
+    text-align: center;
+}
+
+p {
+    color: 
+}
