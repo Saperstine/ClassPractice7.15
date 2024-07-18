@@ -22,3 +22,20 @@
     font-style: italic;
     font-size: x-large;
 }
+
+.three {
+    
+    font-style: inherit;
+    justify-content: center;
+    
+    text-align: center;
+
+
+}
+
+.four {
+    font-size: larger;
+    align-self: center;
+    color: blue;
+    
+}
