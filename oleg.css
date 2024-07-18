@@ -16,3 +16,9 @@
     border-radius: initial;
     font-size: xx-large;
 }
+
+.two {
+    border: brown 5px;
+    font-style: italic;
+    font-size: x-large;
+}
