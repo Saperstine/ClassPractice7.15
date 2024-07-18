@@ -34,6 +34,7 @@
     height: fit-content;
     width: 72.5vw;
     border: solid rgba(9, 35, 151, 0.171) 2px;
+    background-color: rgba(9, 35, 151, 0.171);
     margin-top: 23px;
     margin-left: 30px;
     font-family: "Almendra SC", serif;
